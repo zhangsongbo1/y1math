@@ -1,4 +1,4 @@
-# What is the kth term?
+# What is the kth term? How do you check it?
 
 k = 10
 
